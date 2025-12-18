@@ -98,18 +98,18 @@ Compile and run the main.cpp file
 Follow the console menu for navigation
 
 📂 Project Structure
-text
+
 Smart_Navigation_System/
 ├── main.cpp                 # Complete source code
+
 ├── README.md                # Project documentation
+
 ├── media/                   # Screenshots and output images
+
 └── Smart_Navigation_System_Project_Report.pdf
+
 ⚠️ Note: The entire project is implemented in a single C++ file (main.cpp) with modular functions for clarity and maintainability.
 
-📸 Sample Output
-https://media/image1.png
-https://media/image2.png
-https://media/image3.png
 
 🔮 Future Enhancements
 Implementation of A Algorithm*
@@ -121,6 +121,7 @@ File Handling for data persistence
 GUI-based Interface
 
 Real-time Traffic Simulation
+
 
 📚 References
 Mark Allen Weiss – Data Structures and Algorithm Analysis in C++
@@ -134,13 +135,13 @@ CP Algorithms – Dijkstra's Algorithm
 📞 Contact
 For queries or collaboration, feel free to reach out:
 
-M. Hunain Riasat – hunainriasat@gmail.com
+M. Hunain Riasat – hunainriasat@gmail.com |  fa24-bse-083@cuilahore.edu.pk
 
-Zain Aftab – zain.aftab@example.com
+Zain Aftab – fa24-bse-155@cuilahore.edu.pk
 
-Muhammad Shaheer – shaheer@example.com
+Muhammad Shaheer –  fa24-bse-089@cuilahore.edu.pk
 
-Muhammad Ahsan – ahsan@example.com
+Muhammad Ahsan –  fa24-bse-071@cuilahore.edu.pk
 
 Submitted for Data Structures & Algorithms Lab
 © 2025 – All Rights Reserved
