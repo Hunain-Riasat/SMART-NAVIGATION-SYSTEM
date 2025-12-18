@@ -104,11 +104,13 @@ Smart_Navigation_System/
 
 ├── README.md                # Project documentation
 
-├── media/                   # Screenshots and output images
+└──Documentation Project Report  # Screenshots and output images
 
-└── Smart_Navigation_System_Project_Report.pdf
 
-⚠️ Note: The entire project is implemented in a single C++ file (main.cpp) with modular functions for clarity and maintainability.
+
+⚠️ Note: For Downloading the General Project Report Word file Click n Documentation n download from 3dot menu on top right,
+
+The entire project is implemented in a single C++ file (main.cpp) with modular functions for clarity and maintainability.
 
 
 🔮 Future Enhancements
